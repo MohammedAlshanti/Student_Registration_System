@@ -1,0 +1,6 @@
+student_id,student_name,contact_id,address_id,level_id,BOD
+1,mohammed,1,1,1,2001-08-18
+2,ahmed,2,2,1,2000-12-20
+3,ali,3,1,4,1995-06-06
+4,khaled,4,3,2,2002-07-09
+5,kamal,16,,2,1999-10-10

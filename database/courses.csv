@@ -1,0 +1,6 @@
+course_id,level_id,course_name,max_capacity,rate_per_hour
+1,1,biology,120,20
+2,2,chemistry,100,20
+3,3,data structure,200,25
+4,4,web services,150,30
+7,2,bhj,20,30
